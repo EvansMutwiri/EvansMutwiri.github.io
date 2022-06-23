@@ -1,0 +1,178 @@
+{
+  "land": [
+    {
+      "id": 1,
+      "description": "Ongoing Land Sale",
+      "value": 22000000,
+      "reference": "123/45",
+      "size": 0.5,
+      "date": "2020-06-02",
+      "latitude": -1.293278,
+      "longitude": 36.780111
+    },
+    {
+      "id": 2,
+      "description": "Recent Sale",
+      "value": 3000000,
+      "reference": "456/78",
+      "size": 1,
+      "date": "2020-11-01",
+      "latitude": -1.29581,
+      "longitude": 36.775081
+    },
+    {
+      "id": 3,
+      "description": "Ongoing Land Sale",
+      "value": 16500000,
+      "reference": "190/45",
+      "size": 2,
+      "date": "2020-10-01",
+      "latitude": -1.297816,
+      "longitude": 36.779866
+    },
+    {
+      "id": 4,
+      "description": "Recent Sale",
+      "value": 33000000,
+      "reference": "453/62",
+      "size": 0.5,
+      "date": "2020-09-01",
+      "latitude": -1.300787,
+      "longitude": 36.778539
+    },
+    {
+      "id": 5,
+      "description": "Ongoing Land Sale",
+      "value": 2700000,
+      "reference": "126/47",
+      "size": 0.25,
+      "date": "2020-01-03",
+      "latitude": -1.302621,
+      "longitude": 36.786299
+    }
+  ],
+  "residential": [
+    {
+      "id": 1,
+      "description": "Townhouse",
+      "value": 2700000,
+      "reference": "126/47",
+      "area": 4000,
+      "date": "2020-09-01",
+      "rent": 100000,
+      "latitude": -1.252588,
+      "longitude": 36.778997
+    },
+    {
+      "id": 2,
+      "description": "Maisonette",
+      "value": 4000000,
+      "reference": "126/47",
+      "area": 3500,
+      "date": "2021-02-09",
+      "rent": 160000,
+      "latitude": -1.255483,
+      "longitude": 36.77615
+    },
+    {
+      "id": 3,
+      "description": "3 Bed Apartment",
+      "value": 45000000,
+      "reference": "126/47",
+      "area": 5400,
+      "date": "2021-10-08",
+      "rent": 180000,
+      "latitude": -1.257392,
+      "longitude": 36.780409
+    },
+    {
+      "id": 4,
+      "description": "2 Bed Apartment",
+      "value": 27000000,
+      "reference": "126/47",
+      "area": 2450,
+      "date": "2020-11-19",
+      "rent": 125000,
+      "latitude": -1.25443,
+      "longitude": 36.781151
+    },
+    {
+      "id": 5,
+      "description": "Double Storey House",
+      "value": 50000000,
+      "reference": "126/47",
+      "area": 8000,
+      "date": "2021-02-10",
+      "rent": 160000,
+      "latitude": -1.252543,
+      "longitude": 36.783774
+    }
+  ],
+  "commercial": [
+    {
+      "id": 1,
+      "description": "Office Space",
+      "name": "Tea House",
+      "value": 45000000,
+      "reference": "78/427",
+      "area": 6500,
+      "date": "31/02/2020",
+      "rent": 160000,
+      "service": 30,
+      "latitude": -1.291116,
+      "longitude": 36.820834
+    },
+    {
+      "id": 2,
+      "description": "Retail space",
+      "name": "Imenti House",
+      "value": 23000000,
+      "reference": "196/33",
+      "area": 4500,
+      "date": "01/03/2020",
+      "rent": 125000,
+      "service": 22,
+      "latitude": -1.279929,
+      "longitude": 36.826156
+    },
+    {
+      "id": 3,
+      "description": "Office Space",
+      "name": "APA Plaza",
+      "value": 78000000,
+      "reference": "346/12",
+      "area": 10000,
+      "date": "1/03/2020",
+      "rent": 165000,
+      "service": 25,
+      "latitude": -1.286115,
+      "longitude": 36.825529
+    },
+    {
+      "id": 4,
+      "description": "Office Space",
+      "name": "Kenindia Building",
+      "value": 56000000,
+      "reference": "126/47",
+      "area": 7500,
+      "date": "02/03/2020",
+      "rent": 186500,
+      "service": 30,
+      "latitude": -1.28974,
+      "longitude": 36.822246
+    },
+    {
+      "id": 5,
+      "description": "Retail Space ",
+      "name": "Old Nation House",
+      "value": 32000000,
+      "reference": "126/47",
+      "area": 6700,
+      "date": "02/03/2020",
+      "rent": 120000,
+      "service": 25,
+      "latitude": -1.28214,
+      "longitude": 36.81467
+    }
+  ]
+}
